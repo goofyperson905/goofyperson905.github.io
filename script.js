@@ -4,5 +4,4 @@ function start() {
     element_message.remove();
     const element_main = document.getElementById("main");
     element_main.remove();
-    window.open("screen.html");
 }
